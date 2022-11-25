@@ -1,5 +1,4 @@
-# Data analysis: 
-## How weekly working hours is related to education background and roles in family (wife or husband)
+# Relationship between weekly working hours and education level & roles in family (wife or husband)
 
 📔**Background**
 
@@ -7,10 +6,10 @@ After some investigation of the dataset from the 1994 America census bureau data
 
 🧩**Data Analysis & Modeling**
 
-Check `Assignment2 - Data analysis.ipynb`
+Check `A2 - Analysis & Model.ipynb`
 
 ✏️**Final Report**
 
-Check `Assignment2 - Report.pdf`
+Check `A2 - Report.pdf`
 
 Note: This is an assignment from course JSC270.
