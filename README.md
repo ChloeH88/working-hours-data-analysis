@@ -6,10 +6,10 @@ After some investigation of the dataset from the 1994 America census bureau data
 
 🧩**Data Analysis & Modeling**
 
-Check `A2 - Analysis & Model.ipynb`
+Check out [`A2 - Analysis & Model.ipynb`](https://github.com/ChloeH88/working-hours-data-analysis/blob/main/A2%20-%20Analysis%20%26%20Model.ipynb)
 
 ✏️**Final Report**
 
-Check `A2 - Report.pdf`
+Check out [`A2 - Report.pdf`](https://github.com/ChloeH88/working-hours-data-analysis/blob/main/A2%20-%20Report.pdf)
 
-Note: This is an assignment from course JSC270.
+Note: This is an assignment from course JSC270 Winter 2022.
